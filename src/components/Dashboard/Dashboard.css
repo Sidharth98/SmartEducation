@@ -1,0 +1,8 @@
+.button {
+    font-size: 1em;
+    font-weight: 400;
+    position: relative;
+    vertical-align: middle;
+    color: white;
+    padding: .85714286em 1.14285714em;
+}
